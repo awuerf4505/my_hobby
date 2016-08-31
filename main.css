@@ -63,3 +63,19 @@ a:hover {
 a:active {
     color: #800000;
 }
+
+
+@media (max-width: 600px) {
+
+    h1 {
+        font-size: 36px;
+        line-height: 1.1;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    p {
+        font-size: 20px;
+    }
